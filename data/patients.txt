@@ -1,0 +1,8 @@
+Andrei;Heart disease;Surgeon;Mihai;2024-10-02
+Ion;undiagnosed;;;2024-11-02
+Sergiu;Needs Help;Doctor;Cristi;2024-10-22
+Mircea;Whatever;Doctor;Luca;2024-10-02
+Ciprian;Fever;Doctor;;2024-20-05
+David;undiagnosed;;;2024-15-06
+Ciprian;Fever;Doctor;Luca;2023-15-07
+Mircea;undiagnosed;;;2026-10-05
